@@ -1,2 +1,2 @@
 # alex
-lesson repo
+lesson repo for git toturials
